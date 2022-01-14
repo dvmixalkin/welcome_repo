@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 - [x] 3DMM - https://github.com/sshuster/3DMM-Fitting-Pytorch?ref=https://githubhelp.com
 - [x] FLAME - https://github.com/soubhiksanyal/FLAME_PyTorch?ref=https://githubhelp.com
+- [ ] JAANet - https://github.com/ZhiwenShao/PyTorch-JAANet
