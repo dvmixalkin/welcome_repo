@@ -9,5 +9,5 @@ dvmixalkin/dvmixalkin is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-- [ ] 3DMM - https://github.com/sshuster/3DMM-Fitting-Pytorch?ref=https://githubhelp.com
+- [x] 3DMM - https://github.com/sshuster/3DMM-Fitting-Pytorch?ref=https://githubhelp.com
 - [x] FLAME - https://github.com/soubhiksanyal/FLAME_PyTorch?ref=https://githubhelp.com
