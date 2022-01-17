@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 - [ ] DECA - https://github.com/YadiraF/DECA
 
 - [ ] MTCNN - https://github.com/RuoyuChen10/MTCNN_Portable.git
+- [ ] Py-FEAT: Python Facial Expression Analysis Toolbox - https://github.com/cosanlab/py-feat
