@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 - [x] FLAME - https://github.com/soubhiksanyal/FLAME_PyTorch?ref=https://githubhelp.com
 - [x] JAANet(Action Unit Recognizer) - https://github.com/ZhiwenShao/PyTorch-JAANet
 - [ ] DECA - https://github.com/YadiraF/DECA
-
 - [ ] MTCNN - https://github.com/RuoyuChen10/MTCNN_Portable.git
 - [ ] Py-FEAT: Python Facial Expression Analysis Toolbox - https://github.com/cosanlab/py-feat
 
