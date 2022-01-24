@@ -20,7 +20,6 @@ Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal 
 - [x] DANN(main idea how to improve student performance) - https://github.com/NaJaeMin92/pytorch_DANN
 - [ ] MA-Net - https://github.com/zengqunzhao/MA-Net
 - [ ] MicroNet - https://github.com/ListIndexOutOfRange/MicroNet
-
 - [ ] TSCNN - https://github.com/jeffreyyihuang/two-stream-action-recognition 
 
 
