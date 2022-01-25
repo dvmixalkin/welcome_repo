@@ -59,8 +59,6 @@ Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal 
 |       | MiMaNet [186]   |2021| T| Apex+sequence| 2S-CNN+DA| RES| CK+ [196],MMI [10]| LOSO| 3| 0.778 |78.6|
 |       | DSTAN [176]     |2021| T| OF+sequence |2S-CNN+LSTM+SVM| Attention |-| LOSO |3| 0.78| 77|
 |       | KFC [173]       |2021| -| OF| 2S-CNN| Attention |-| LOSO| 3| 0.6638| 65.85|
-
-
 |CASME  |TSCNN [100]| 2019 |E,R| OF+Apex |3S-CNN| - |FER2013 [193]| LOSO |4| 0.7270 |73.88|
 |CASME  |LEARNet [76] 2019 - DI CNN Hyfeat - LOSO 8 - 80.62
 |CASME  |LGCcon [56] 2020 E, R Apex CNN Attention VGG-FACE [180] LOSO 4 0.60 60.82
