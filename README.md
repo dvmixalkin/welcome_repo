@@ -43,9 +43,8 @@ Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal 
 
 |Dataset |Method |Year |Pre-p. |Input |Network architecture |Block |Pre-train |Protocol |Cate. |  F1 |ACC (%)|
 |--------|-------|-----|-------|------|---------------------|------|----------|---------|------|-----|-------|
+|SMIC | 3D-CNN+LSTM [117] | 2019 |-| Sequence| 3DCNN+LSTM |-| - |LOSO |3 |- |56.6|
 
-
-|SMIC | 3D-CNN+LSTM [117] | 2019 - Sequence 3DCNN+LSTM - - LOSO 3 - 56.6
 | [ ] | OFF-ApexNet [96]  | 2019 - OF 2S-CNN - - LOSO 3 0.6709 67.68
 | [ ] | TSCNN [100]       | 2019 E, R OF+Apex 3S-CNN - FER2013 [193] LOSO 3 0.7236 72.74
 | [ ] | LEARNet [76]      | 2019 - DI CNN Hybrid - LOSO 3 - 81.60
