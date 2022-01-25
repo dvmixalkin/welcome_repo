@@ -39,7 +39,7 @@ Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal 
 | ANN    | R-50-D8  | 512x1024  |   40000 | 6        | 3.71           | 77.40 |         78.57 | [config](https://github.com/open-mmlab/mmsegmentation/blob/master/configs/ann/ann_r50-d8_512x1024_40k_cityscapes.py)  | [model](https://download.openmmlab.com/mmsegmentation/v0.5/ann/ann_r50-d8_512x1024_40k_cityscapes/ann_r50-d8_512x1024_40k_cityscapes_20200605_095211-049fc292.pth) &#124; [log](https://download.openmmlab.com/mmsegmentation/v0.5/ann/ann_r50-d8_512x1024_40k_cityscapes/ann_r50-d8_512x1024_40k_cityscapes_20200605_095211.log.json)     |
 
 
-
+# MER on SMIC, CASME, CASME II, SAMM, and CMED datasets.
 
 |Dataset|     Method      |Year|Pre-p. |Input   |Network architecture |Block |Pre-train |Protocol |Cate. |  F1 |ACC (%)|
 |-------|-----------------|----|-------|--------|---------------------|------|----------|---------|------|------|-------|
