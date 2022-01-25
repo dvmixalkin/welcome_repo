@@ -16,13 +16,20 @@ You can click the Preview link to take a look at your changes.
 - [ ] MTCNN - https://github.com/RuoyuChen10/MTCNN_Portable.git
 - [ ] Py-FEAT: Python Facial Expression Analysis Toolbox - https://github.com/cosanlab/py-feat
 
+## Micro Expression Recognition
 Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain
 - [x] DANN(main idea how to improve student performance) - https://github.com/NaJaeMin92/pytorch_DANN
 - [ ] MA-Net - https://github.com/zengqunzhao/MA-Net
 - [ ] MicroNet - https://github.com/ListIndexOutOfRange/MicroNet
 - [ ] TSCNN - https://github.com/jeffreyyihuang/two-stream-action-recognition 
 
-TOLearn
+### ICE-GAN
+- [ ] https://github.com/crane-papercode/ICE-GAN 
+
+### GRAPH-AU
+- [ ] https://github.com/Justin900429/Facial-Graph-Representation-Learning
+
+## TOLearn
 - [ ] PyTorch-GAN - https://github.com/eriklindernoren/PyTorch-GAN
 
 ### Cityscapes
