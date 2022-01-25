@@ -28,8 +28,9 @@ Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal 
 
 ### GRAPH-AU
 - [ ] https://github.com/Justin900429/Facial-Graph-Representation-Learning
+### CapsuleNet for Micro-expression Recognition
+- [ ] https://github.com/davidnvq/me_recognition
 
-- [ ] CapsuleNet for Micro-expression Recognition - https://github.com/davidnvq/me_recognition
 ## TOLearn
 - [ ] PyTorch-GAN - https://github.com/eriklindernoren/PyTorch-GAN
 
