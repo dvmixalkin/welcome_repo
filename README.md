@@ -44,32 +44,30 @@ Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal 
 |Dataset|     Method      |Year|Pre-p. |Input   |Network architecture |Block |Pre-train    |Protocol |Cate. |  F1 |ACC (%)|
 |-------|-----------------|----|-------|--------|---------------------|------|-------------|---------|------|------|-------|
 |SMIC   |3D-CNN+LSTM [117]|2019|      -|Sequence|3DCNN+LSTM           |     -|            -|     LOSO|     3|     -|   56.6|
-|       | OFF-ApexNet [96]|2019|      -|      OF|2S-CNN               |     -|            -|     LOSO|     3|0.6709|  67.68|
+|       | OFF-ApexNet [96]|2019|      -|OF      |2S-CNN               |     -|            -|     LOSO|     3|0.6709|  67.68|
 |       | TSCNN [100]     |2019|E, R   |OF+Apex |3S-CNN               |     -|FER2013 [193]|     LOSO|     3|0.7236|  72.74|
-|       | LEARNet [76]    |2019| - DI CNN Hybrid - LOSO 3 - 81.60
-|       | STRCN-G [57]    |2019| E OF CNN RCN - LOSO 3 0.695 72.3
-|       | STSTNet [107]   |2019| E OF 3S-3DCNN - - LOSO 3 0.6801 70.13
-|       | LGCcon [56]     |2020| E, R Apex CNN Attention VGG-FACE [180] LOSO 3 0.62 63.41
-|       | CBAMNet [90]    |2020| E, T Sequence 3DCNN Attention Oulu-CASIA [194] 10-fold 3 - 54.84
-|       | DIKD [66]       |2020| - Apex CNN+KD+SVM - - LOSO 3 0.71 76.06
-|       | SMA-STN [71]    |2020| - Snippet CNN - WIDER FACE [195] LOSO 3 0.7683 77.44
-|       | SETFNet [175]   |2020| R Sequence 3S-3DCNN SE - 5-Fold 5 - 70.25
-|       | MTMNet [123]    |2020| - Onset-Apex 2S-CNN+DA+GAN RES CK+ [196],MMI [10],
-|       | Oulu-CASIA [194]|
-| [ ] | LOSO 3 0.744 76.0 |
-| [ ] | GEME [74]         |2021| - DI 2S-CNN+ML RES - LOSO 3 0.6158 64.63
-|       | MiMaNet [186]   |2021| T Apex+sequence 2S-CNN+DA RES CK+ [196],MMI [10] LOSO 3 0.778 78.6
-|       | DSTAN [176]     |2021| T OF+sequence 2S-CNN+LSTM+SVM Attention - LOSO 3 0.78 77
-|       | KFC [173]       |2021| - OF 2S-CNN Attention - LOSO 3 0.6638 65.85
+|       | LEARNet [76]    |2019|      -|DI      |CNN                  |Hybrid|            -|     LOSO|     3|     -|  81.60|
+|       | STRCN-G [57]    |2019|E      |OF|CNN| RCN| - |LOSO| 3| 0.695| 72.3|
+|       | STSTNet [107]   |2019| E| OF| 3S-3DCNN| -| - |LOSO| 3| 0.6801| 70.13|
+|       | LGCcon [56]     |2020| E, R| Apex| CNN| Attention| VGG-FACE [180]| LOSO| 3| 0.62| 63.41|
+|       | CBAMNet [90]    |2020| E, T| Sequence| 3DCNN| Attention| Oulu-CASIA [194]| 10-fold| 3| -| 54.84|
+|       | DIKD [66]       |2020| -| Apex| CNN+KD+SVM| -| -| LOSO| 3| 0.71| 76.06|
+|       | SMA-STN [71]    |2020| -| Snippet| CNN| -| WIDER FACE [195]| LOSO |3| 0.7683| 77.44|
+|       | SETFNet [175]   |2020| R| Sequence| 3S-3DCNN| SE| -| 5-Fold| 5| -| 70.25|
+|       | MTMNet [123]    |2020| -| Onset-Apex| 2S-CNN+DA+GAN| RES |CK+[196],MMI [10],| Oulu-CASIA [194]| LOSO |3| 0.744| 76.0 |
+|       | GEME [74]       |2021| -| DI| 2S-CNN+ML| RES |-| LOSO |3| 0.6158 |64.63|
+|       | MiMaNet [186]   |2021| T| Apex+sequence| 2S-CNN+DA| RES| CK+ [196],MMI [10]| LOSO| 3| 0.778 |78.6|
+|       | DSTAN [176]     |2021| T| OF+sequence |2S-CNN+LSTM+SVM| Attention |-| LOSO |3| 0.78| 77|
+|       | KFC [173]       |2021| -| OF| 2S-CNN| Attention |-| LOSO| 3| 0.6638| 65.85|
 
-CASME
-TSCNN [100] 2019 E,R OF+Apex 3S-CNN - FER2013 [193] LOSO 4 0.7270 73.88
-LEARNet [76] 2019 - DI CNN Hyfeat - LOSO 8 - 80.62
-LGCcon [56] 2020 E, R Apex CNN Attention VGG-FACE [180] LOSO 4 0.60 60.82
-DIKD [66] 2020 - Apex CNN+KD+SVM RES - LOSO 4 0.77 81.80
-OrigiNet [77] 2020 - AI CNN Hyfeat - LOSO 4 - 66.09
-AffectiveNet [163] 2020 E DI 4S-CNN MFL - LOSO 4 - 72.64
-DSTAN [176] 2021 T OF+sequence 2S-CNN+LSTM+SVM Attention - LOSO 4 0.75 78
+
+|CASME  |TSCNN [100]| 2019 |E,R| OF+Apex |3S-CNN| - |FER2013 [193]| LOSO |4| 0.7270 |73.88|
+|CASME  |LEARNet [76] 2019 - DI CNN Hyfeat - LOSO 8 - 80.62
+|CASME  |LGCcon [56] 2020 E, R Apex CNN Attention VGG-FACE [180] LOSO 4 0.60 60.82
+|CASME  |DIKD [66] 2020 - Apex CNN+KD+SVM RES - LOSO 4 0.77 81.80
+|CASME  |OrigiNet [77] 2020 - AI CNN Hyfeat - LOSO 4 - 66.09
+|CASME  |AffectiveNet [163] 2020 E DI 4S-CNN MFL - LOSO 4 - 72.64
+|CASME  |DSTAN [176] 2021 T OF+sequence 2S-CNN+LSTM+SVM Attention - LOSO 4 0.75 78
 
 CASME II
 ELRCN [113] 2018 T OF 4S-CNN+LSTM - VGG-Face [180] LOSO 5 0.5 52.44
