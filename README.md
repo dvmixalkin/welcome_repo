@@ -25,6 +25,7 @@ Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal 
 - [ ] ICE-GAN - https://github.com/crane-papercode/ICE-GAN 
 - [ ] GRAPH-AU - https://github.com/Justin900429/Facial-Graph-Representation-Learning
 - [ ] CapsuleNet - https://github.com/davidnvq/me_recognition
+- [ ] STSTNet - https://github.com/christy1206/STSTNet
 
 ## TOLearn
 - [ ] PyTorch-GAN - https://github.com/eriklindernoren/PyTorch-GAN
