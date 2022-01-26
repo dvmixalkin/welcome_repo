@@ -25,7 +25,7 @@ Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal 
 - [ ] ICE-GAN - https://github.com/crane-papercode/ICE-GAN 
 - [ ] GRAPH-AU - https://github.com/Justin900429/Facial-Graph-Representation-Learning
 - [ ] CapsuleNet - https://github.com/davidnvq/me_recognition
-- [ ] STSTNet - https://github.com/christy1206/STSTNet
+- [x] STSTNet - https://github.com/christy1206/STSTNet
 
 ## Biometric System: Iris Recognition With Deep Learning
 - [ ] iris-recognition - https://github.com/apostaremczak/iris-recognition.git
