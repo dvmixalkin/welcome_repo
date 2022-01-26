@@ -27,6 +27,9 @@ Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal 
 - [ ] CapsuleNet - https://github.com/davidnvq/me_recognition
 - [ ] STSTNet - https://github.com/christy1206/STSTNet
 
+## Biometric System: Iris Recognition With Deep Learning
+- [ ] iris-recognition - https://github.com/apostaremczak/iris-recognition.git
+
 ## TOLearn
 - [ ] PyTorch-GAN - https://github.com/eriklindernoren/PyTorch-GAN
 
