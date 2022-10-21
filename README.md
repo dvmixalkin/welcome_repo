@@ -14,7 +14,7 @@
  - [ ] реализовать алгоритм для нахождения дистанции от объекта до камеры
  - [ ]  перезалить имеющиеся наработки и отправить ссылку на репозиторий Юре.
  
- 
+ ## Old repos: 
 <!---
 dvmixalkin/dvmixalkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
